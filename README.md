@@ -10,7 +10,7 @@ Windows Filesystem Manipulator & Destroyer
 Overview:
 ---------
 
-An antiforensics tool intended to detect attempts to analyze certain files or filesystems
+This is an antiforensics tool intended to detect attempts to analyze certain files or filesystems
 and act by disrupting data collection. This tool is meant to monitor and destroy predetermined
 files that are deemed sensitive.
 
